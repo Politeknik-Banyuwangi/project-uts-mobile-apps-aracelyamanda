@@ -25,7 +25,7 @@ class Calls extends StatelessWidget {
             CardsCalls('Papa', 'Kemarin 22.00', 'https://i.postimg.cc/YqCww1L3/Whats-App-Image-2022-05-31-at-14-57-53.jpg', 'call', 'accept'),
             CardsCalls('Adek', '23 Mei 13.00', 'https://i.postimg.cc/Gp54kLw0/Whats-App-Image-2022-05-31-at-14-57-14.jpg', 'call', 'accept'),
             CardsCalls('Mama', '23 Mei 12.00', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg', 'call', 'accept'),
-            CardsCalls('Mama', '23 Mei 11.45.00', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg', 'call', 'accept'),
+            CardsCalls('Mama', '23 Mei 11.45', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg', 'call', 'accept'),
             CardsCalls('Adek', '24 Mei 15.00', 'https://i.postimg.cc/Gp54kLw0/Whats-App-Image-2022-05-31-at-14-57-14.jpg', 'call', 'accept'),
             CardsCalls('Papa', '24 Mei 13.00', 'https://i.postimg.cc/YqCww1L3/Whats-App-Image-2022-05-31-at-14-57-53.jpg', 'call', 'accept'),
             CardsCalls('Mama', '24 Mei 07.00', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg', 'call', 'accept'),
