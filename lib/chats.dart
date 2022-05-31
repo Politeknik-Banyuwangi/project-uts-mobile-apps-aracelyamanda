@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'Widget/CardChats.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
@@ -15,8 +16,12 @@ class Chats extends StatelessWidget {
         child: ListView(
           children: [
             SizedBox(
-              height: 10,
+              height: 15,
             ),
+            CardChats('Mama', '10.00', 'Semangat Kuliah Nya Mba', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg'),
+            CardChats('Papa', '04.00', 'Jangan Lupa Solat Mba', 'https://i.postimg.cc/YqCww1L3/Whats-App-Image-2022-05-31-at-14-57-53.jpg'),
+            CardChats('Adek', 'Kemarin', 'Mba Dimana?', 'https://i.postimg.cc/Gp54kLw0/Whats-App-Image-2022-05-31-at-14-57-14.jpg'),
+            CardChats('Tante Cans', 'Kemarin', 'Beli Dimana?', 'https://i.postimg.cc/fbL6GZ3R/laudya.jpg'),
           ],
         ),
       ),
