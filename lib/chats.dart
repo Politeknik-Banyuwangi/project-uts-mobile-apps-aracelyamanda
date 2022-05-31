@@ -16,7 +16,7 @@ class Chats extends StatelessWidget {
         child: ListView(
           children: [
             SizedBox(
-              height: 10,
+              height: 15,
             ),
             CardChats('Mama', '08.00', 'Semangat Kuliah Nya Mba', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg'),
             CardChats('Mama', '08.00', 'Semangat Kuliah Nya Mba', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg'),
