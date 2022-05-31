@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'widget/CardCalls.dart';
+import 'Widget/CardCalls.dart';
 
 class Calls extends StatelessWidget {
   const Calls({Key? key}) : super(key: key);
@@ -21,7 +21,7 @@ class Calls extends StatelessWidget {
             ),
 
             // Masukkan Coding disini jangan rubah lainnya
-            //
+            CardsCalls('Ridho', 'hari ini 19.00', 'https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg', 'vidio call', 'accept'),
             //
             //
             //
