@@ -17,11 +17,11 @@ class Calls extends StatelessWidget {
         child: ListView(
           children: [
             SizedBox(
-              height: 10,
+              height: 15,
             ),
 
             // Masukkan Coding disini jangan rubah lainnya
-            CardsCalls('Ridho', 'hari ini 19.00', 'https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg', 'vidio call', 'accept'),
+            CardsCalls('Mama', 'Kemarin 21.00', 'https://i.postimg.cc/dtBhtm0S/Whats-App-Image-2022-05-31-at-14-38-54.jpg', 'vidio call', 'accept'),
             //
             //
             //
@@ -43,7 +43,7 @@ class Calls extends StatelessWidget {
             ),
           ),
           SizedBox(
-            height: 20,
+            height: 25,
           ),
           FloatingActionButton(
             backgroundColor: Colors.green,
